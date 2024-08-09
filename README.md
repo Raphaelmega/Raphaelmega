@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Raphael Mega
+**Meu nome é Raphael Mega**
 
 - Estou estudando na escola Domingos Quirino Ferreira
   
