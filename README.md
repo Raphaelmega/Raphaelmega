@@ -2,8 +2,13 @@
 
 Meu nome é Raphael Mega
 
-- Estou estudando no alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando na escola Domingos Quirino Ferreira
+- 
+- Eu tenho 15 anos
 
-- ### Você entrar em contato comigo
+- Moro em São Paulo/SP
+- 
+- raphamega7@gmail.com
+   
+
+- 
